@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IBM BTECH</string>
+    <string-array name="Subjects">
+        <item> Theory Of Automata</item>
+        <item> Data Warehousing and Modelling</item>
+        <item> Introduction to design and analysis of algorithm </item>
+        <item> Software Engineering</item>
+        <item> Business Intelligence</item>
+
+    </string-array>
+</resources>
